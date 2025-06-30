@@ -94,7 +94,7 @@ pdf-summarizer/
 
 ## 👨‍💻 Author - Ejike Ozonkwo
 - [LinkedIn](https://www.linkedin.com/in/ozonkwoejike/)
-- [Github](https://www.linkedin.com/in/ozonkwoejike/)
+- [Github](https://github.com/rychrr)
 
 ## 🤝 Contributing
 Pull requests welcome. Open issues for enhancements or bugs.
