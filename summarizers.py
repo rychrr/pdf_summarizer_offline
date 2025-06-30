@@ -225,7 +225,7 @@ def main():
         st.markdown(f"""
             <div class="styled-summary-container">
                 <div class="summary-header">
-                    <img src="\\img\\dangote.png" alt="Logo" width="120" style="margin-bottom:10px;" />
+                    <img src="\\img\\logo.png" alt="Logo" width="120" style="margin-bottom:10px;" />
                     <h2> Summarized Report</h2>
                     <p style="color:#888; font-size:14px;"> Report is AI Generated</p>
                 </div>
