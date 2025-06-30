@@ -1,0 +1,59 @@
+# === Python artifacts ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.log
+
+# === Environment / dependencies ===
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+env/
+pip-log.txt
+
+# === System files ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === VSCode / IDEs ===
+.vscode/
+.idea/
+
+# === Streamlit cache and session state ===
+.streamlit/
+.cache/
+
+# === OCR & PDF temp data ===
+cache/*
+*.ocr.txt
+*.hash
+*.tmp.pdf
+*.pdf~
+
+# === Output and generated files ===
+*.html
+*.txt
+output/
+downloads/
+poppler-24.08.0/*
+img/*
+input/*
+
+
+
+# === Optional: Model artifacts ===
+ollama_models/
+models/
+*.gguf
+*.bin
+
+# === OS-specific ===
+*.swp
+*.bak
+*~
