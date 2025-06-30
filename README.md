@@ -64,8 +64,7 @@ Used by pdf2image to convert PDF pages into images.
 ## 🏁 How to Run
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-user/pdf-summarizer.git
-   cd pdf-summarizer
+   git clone https://github.com/rychrr/pdf_summarizer_offline.git   
 
 2. **Install Python Dependencies**
    ```bash
